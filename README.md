@@ -4,7 +4,7 @@ A simple and responsive expense-tracking web application built with HTML, CSS, a
 
 ## 📸 Preview
 
-(screenshots/Expense tracker.png)
+![Weather App Preview](screenshots/weather app.PNG)
 
 ## 🚀 Live Demo
 
