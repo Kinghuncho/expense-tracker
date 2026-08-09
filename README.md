@@ -1,27 +1,37 @@
 # 💰 Expense Tracker
 
-A simple, responsive expense-tracking web application built with HTML, CSS, and JavaScript. It allows users to record, categorize, manage, and keep track of their daily expenses directly in the browser.
+A simple and responsive expense-tracking web application built with HTML, CSS, and JavaScript. The application allows users to record, organize, and manage their daily expenses directly in the browser.
+
+## 📸 Preview
+
+> Add a screenshot of the Expense Tracker here.
 
 ## 🚀 Live Demo
 
-[View Expense Tracker](https://kinghuncho.github.io/expense-tracker/)
+Visit the live application:
 
-## 📌 Features
+https://kinghuncho.github.io/expense-tracker/
 
-* ➕ Add new expenses
+## ✨ Features
+
+* ➕ Add expenses
 * 🏷️ Categorize expenses
+* 💰 Track spending
 * 🗑️ Delete expenses
-* 💾 Save expenses using Local Storage
-* 📱 Responsive design for desktop and mobile devices
-* 📊 Track spending in a simple and organized interface
-* ⚡ Fast and lightweight
+* 💾 Save data using Local Storage
+* 📊 Simple spending overview
+* 📱 Responsive design
+* ⚡ Fast and lightweight interface
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 * HTML5
 * CSS3
 * JavaScript
 * Local Storage API
+* Git
+* GitHub
+* GitHub Pages
 
 ## 📂 Project Structure
 
@@ -34,17 +44,18 @@ expense-tracker/
 └── README.md
 ```
 
-## 🎯 Purpose
+## 🎯 Project Purpose
 
-This project was created to practice front-end web development and JavaScript functionality while building a practical application that can be used to manage everyday expenses.
+This project was created to practice JavaScript, DOM manipulation, browser storage, responsive design, and building practical web applications.
 
 ## 🔮 Future Improvements
 
-* Expense charts and visual reports
-* Monthly spending summaries
+* Expense charts
+* Monthly spending reports
 * Search and filtering
-* Export expenses to CSV
+* CSV export
 * Budget tracking
+* Monthly budgets
 * Improved dashboard
 * Dark/light mode
 
@@ -52,8 +63,11 @@ This project was created to practice front-end web development and JavaScript fu
 
 **King Huncho**
 
-GitHub: [@Kinghuncho](https://github.com/Kinghuncho)
+GitHub: Kinghuncho
+
+Portfolio: My Personal Portfolio
 
 ## 📄 License
 
-This project is open source and available for learning and personal use.
+This project is available for learning and personal use.
+
