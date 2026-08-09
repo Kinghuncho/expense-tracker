@@ -4,7 +4,7 @@ A simple and responsive expense-tracking web application built with HTML, CSS, a
 
 ## 📸 Preview
 
-![Expense tracker Preview](screenshots/Expense tracker.PNG)
+![Expense tracker Preview](https://raw.githubusercontent.com/Kinghuncho/expense-tracker/14cab668696a4d9252f91e87dc4d6855f3969d26/Expense%20tracker.png)
 
 ## 🚀 Live Demo
 
